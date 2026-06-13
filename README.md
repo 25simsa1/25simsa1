@@ -1,7 +1,7 @@
 # Hey! I'm Simon Sang
 
 - 💼 AI & Operations Automation Intern @ Parsifal Corporation
-- 🤖 Interested in applied AI engineering, LLMs, and quantitative finance
+- 🤖 Interested in applied AI engineering, LLMs, and algorithmic finance
 - 🏅 Incoming AI/ML Researcher @ Algoverse (selected for mentored research aimed at publication)
 - 🎓 Undergrad in Math, Econ & CS @ Colby College
 
