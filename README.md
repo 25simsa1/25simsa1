@@ -1,8 +1,8 @@
 # Hi, I'm Simon 👋
 
-**Math, econ & CS at [Colby College](https://www.colby.edu)** · AI/ML research · quantitative finance · chess
+**Undergraduate at [Colby College](https://www.colby.edu)** — math, econ & CS · AI/ML · markets · chess
 
-I like markets, technology, and large language models — and especially finding tangible, useful ways to apply AI without diminishing the importance of what we do ourselves. My name means *"to uphold"* and *"of the highest standard,"* and I try to hold my work to that.
+I'm an undergrad who's curious about a lot of things — maths, large language models, and the markets above all. What I enjoy most is finding tangible, useful ways to apply AI to our lives without diminishing the importance of what we do ourselves. My name means *"to uphold"* and *"of the highest standard,"* and I try to hold my work to that.
 
 > *I enjoy the journey, and I also enjoy making it easier.*
 
@@ -36,7 +36,7 @@ I like markets, technology, and large language models — and especially finding
 > **Nullius in verba** — take nobody's word for it, including my own.
 > **Bounded rationality** — run the experiment that rules out the most per dollar.
 
-Off the keyboard: rapid chess, tennis, the gym, and more R6 Siege than is reasonable.
+Off the keyboard: tennis (playing and watching), rapid chess, collecting Pokémon cards, the gym, and more R6 Siege than is reasonable.
 
 ### 📫 Reach me
 
