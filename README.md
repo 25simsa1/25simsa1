@@ -1,43 +1,52 @@
-# Hi, I'm Simon 👋
+# Hey! I'm Simon Sang
 
-**Undergraduate at [Colby College](https://www.colby.edu)** · math, econ & CS · AI/ML · markets · chess
+- 💼 AI & Operations Automation Intern @ Parsifal Corporation
+- 🤖 Interested in applied AI engineering, LLMs, and quantitative finance
+- 🏅 Incoming AI/ML Researcher @ Algoverse (selected for mentored research aimed at publication)
+- 🎓 Undergrad in Math, Econ & CS @ Colby College
 
-I'm an undergrad who's curious about a lot of things: maths, large language models, and the markets above all. What I enjoy most is finding tangible, useful ways to apply AI to our lives without diminishing the importance of what we do ourselves. My name means *"to uphold"* and *"of the highest standard,"* and I try to hold my work to that.
+---
 
-> *I enjoy the journey, and I also enjoy making it easier.*
+## Currently:
 
-### 🔭 Currently
+- 🔭 Building a training-free system for **ARC-AGI-3**: world-model rules verified by exact replay, with zero LLM calls at inference (ARC Prize 2026)
+- 🛠️ Running a **crypto market-microstructure platform**: WebSocket order-book capture, a realistic backtester, and an honest negative result
 
-- Building a **training-free system for [ARC-AGI-3](https://github.com/25simsa1/arc-prize-2026)**: LLM-proposed world-model rules verified by exact replay, with **zero LLM calls at inference**.
-- Running a **[crypto market-microstructure platform](https://github.com/25simsa1/crypto-microstructure)**, and reporting the honest negative result: retail taker fees swamp the spread edge by ~1000×.
-- Incoming **AI/ML Researcher at Algoverse** (July 2026).
-- 📍 Kansas City, KS / Waterville, ME
+---
 
-### 🛠️ Stack
+## Tech Stack:
 
-`Python` · `Java` · `TypeScript` · `R`
-**ML / Data:** PyTorch · NumPy · pandas · RAG · Parquet
-**Engineering:** Next.js · WebSockets · mypy · ruff · pytest
-**Finance:** valuation / DCF · financial modeling · Power BI
+**Languages**
 
-### 📌 Selected work
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-| Project | What it is |
-| --- | --- |
-| [**ARC-AGI-3 Research System**](https://github.com/25simsa1/arc-prize-2026) | Training-free reasoning agent; world models verified by exact replay |
-| [**Crypto Microstructure**](https://github.com/25simsa1/crypto-microstructure) | Order-book capture + realistic backtester, an honest negative result |
-| [**Micrograd**](https://github.com/25simsa1/micrograd_from_scratch) | Scalar autograd engine + tiny MLP, from scratch, standard library only |
-| [**arXiv Frontier**](https://github.com/25simsa1/arxiv-frontier) | CLI that ranks recent ML papers by recency, impact & venue (no API keys) |
-| [**Tinylang**](https://github.com/25simsa1/java-interpretor) | A small interpreted language: lexer, parser & tree-walking REPL in JS |
+**ML / Frameworks**
 
-### ♟️ How I think
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-> **Falsification over confirmation:** a claim earns trust by surviving attempts to kill it.
-> **Nullius in verba:** take nobody's word for it, including my own.
-> **Bounded rationality:** run the experiment that rules out the most per dollar.
+**Tools / Infra**
 
-Off the keyboard: tennis (playing and watching), rapid chess, collecting Pokémon cards, the gym, and more R6 Siege than is reasonable.
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black)
+![Apache Parquet](https://img.shields.io/badge/Apache_Parquet-50ABF1?style=for-the-badge&logo=apacheparquet&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### 📫 Reach me
+---
 
-[GitHub](https://github.com/25simsa1) · [LinkedIn](https://linkedin.com/in/simonsang) · [Email](mailto:simonlapsang@gmail.com) · [Chess.com](https://www.chess.com/member/simonschess06)
+## Contact Me
+
+- 📧 Email: [simonlapsang@gmail.com](mailto:simonlapsang@gmail.com)
+- 💼 LinkedIn: [in/simonsang](https://linkedin.com/in/simonsang)
+- ♟️ Chess.com: [simonschess06](https://www.chess.com/member/simonschess06)
