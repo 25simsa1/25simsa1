@@ -1,16 +1,16 @@
 # Hey! I'm Simon Sang
 
-- 💼 AI & Operations Automation Intern @ Parsifal Corporation
-- 🤖 Interested in applied AI engineering, LLMs, and algorithmic finance
-- 🏅 Incoming AI/ML Researcher @ Algoverse (selected for mentored research aimed at publication)
-- 🎓 Undergrad in Math, Econ & CS @ Colby College
+- AI & Operations Automation Intern @ Parsifal Corporation
+- Interested in applied AI engineering, LLMs, and algorithmic finance
+- Incoming AI/ML Researcher @ Algoverse (selected for mentored research aimed at publication)
+- Undergrad in Math, Econ & CS @ Colby College
 
 ---
 
 ## Currently:
 
-- 🔭 Building a training-free system for **ARC-AGI-3**: world-model rules verified by exact replay, with zero LLM calls at inference (ARC Prize 2026)
-- 🛠️ Running a **crypto market-microstructure platform**: WebSocket order-book capture, a realistic backtester, and an honest negative result
+- Building a training-free system for **ARC-AGI-3**: world-model rules verified by exact replay, with zero LLM calls at inference (ARC Prize 2026)
+- Running a **crypto market-microstructure platform**: WebSocket order-book capture, a realistic backtester, and an honest negative result
 
 ---
 
