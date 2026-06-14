@@ -1,4 +1,4 @@
-# Hey! I'm Simon Sang
+# Hey! I'm Simon
 
 - AI & Operations Automation Intern @ Parsifal Corporation
 - Interested in applied AI engineering, LLMs, and finance
