@@ -45,6 +45,23 @@
 
 ---
 
+## GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=25simsa1&hide_border=true&background=0D1117&stroke=A371F7&ring=A371F7&fire=FF7B29&currStreakLabel=A371F7&sideNums=A371F7&currStreakNum=C9D1D9&sideLabels=C9D1D9&dates=8B949E&border_radius=8" alt="GitHub streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=25simsa1&custom_title=Contribution%20Graph&bg_color=0D1117&color=A371F7&title_color=A371F7&line=A371F7&point=FFFFFF&area_color=A371F7&area=true&hide_border=true&radius=8" alt="Contribution graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=25simsa1&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A371F7&text_color=C9D1D9" alt="Most used languages" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=25simsa1&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=A371F7&icon_color=A371F7&text_color=C9D1D9" alt="GitHub stats" height="165" />
+</p>
+
+---
+
 ## Contact Me
 
 - 📧 Email: [simonlapsang@gmail.com](mailto:simonlapsang@gmail.com)
