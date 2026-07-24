@@ -3,7 +3,7 @@
 - Machine Learning Researcher @ Algoverse, working on world models
 - Linguistics & NLP Research Assistant @ Colby College
 - AI & Operations Automation Intern @ Parsifal Corporation
-- Undergrad in Math, Econ & CS @ Colby College, class of 2029
+- Undergrad @ Colby College, majoring in Mathematics, Economics and Computer Science, class of 2029
 - Interested in world models, LLM evaluation, applied AI engineering, and finance
 
 ---
@@ -21,6 +21,7 @@
 ## Selected Work:
 
 - [**dependence-is-not-origin**](https://github.com/25simsa1/dependence-is-not-origin): audit of two attention nonlinearities on released checkpoints. The gain waterfall attributes 81% to recipe, 4% to scaffold, 15% to the nonlinearity itself
+- **beyond_query_linearity** (private repo, available on request): nonlinear attention queries, a companion study to the audit above
 - [**throughline**](https://github.com/25simsa1/throughline): reads books, articles and papers, surfaces cross-source connections for a chapter thesis, then drafts prose from the ones you keep. Every quote is verified verbatim, anything unverifiable is flagged
 - [**crypto-microstructure**](https://github.com/25simsa1/crypto-microstructure): order book and trade capture from Kraken, Coinbase and Binance, plus an out-of-sample replication check on microstructure effects. A stats-rigor exercise that ends in an honest negative result
 - [**benefit-finder**](https://github.com/25simsa1/benefit-finder): screens a US household for public benefits, assistance programs and tax credits. Static rules engine, nothing stored
