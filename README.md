@@ -1,16 +1,29 @@
 # Hey! I'm Simon
 
+- Machine Learning Researcher @ Algoverse, working on world models
+- Linguistics & NLP Research Assistant @ Colby College
 - AI & Operations Automation Intern @ Parsifal Corporation
-- Interested in applied AI engineering, LLMs, and finance
-- Incoming AI/ML Researcher @ Algoverse (selected for mentored research aimed at publication)
-- Undergrad in Math, Econ & CS @ Colby College
+- Undergrad in Math, Econ & CS @ Colby College, class of 2029
+- Interested in world models, LLM evaluation, applied AI engineering, and finance
 
 ---
 
 ## Currently:
 
-- Building a training-free system for **ARC-AGI-3**: world-model rules verified by exact replay, with zero LLM calls at inference (ARC Prize 2026)
-- Running a **crypto market-microstructure platform**: WebSocket order-book capture, a realistic backtester, and an honest negative result
+- **World models @ Algoverse**: interpretability of learned world representations and JEPA-style predictive models, aimed at physical and agent-based settings such as autonomous driving
+- **Pragmatic competence in LLMs @ Colby**: a controlled evaluation framework that isolates conversational implicature and presupposition from lexical and syntactic surface cues, so real pragmatic inference can be told apart from surface pattern matching
+- **AI automation @ Parsifal**: an MCP server that generates validated Power BI projects straight from a SQL database, over a multi-tenant, RLS-secured analytics platform spanning two warehouses
+- **Bidirectional predictive coding** for multimodal image-text conversion: framing multimodal learning as constraint satisfaction over shared latent states instead of feedforward mapping ([encoder_encoder_PCN](https://github.com/25simsa1/encoder_encoder_PCN))
+- **A grounded neural computer**: interface routines synthesized by a model once at install time, then executed deterministically against real IMAP/SMTP. Typed effectors, policy-checked updates, immutable audit log ([grounded-nc](https://github.com/25simsa1/grounded-nc))
+
+---
+
+## Selected Work:
+
+- [**dependence-is-not-origin**](https://github.com/25simsa1/dependence-is-not-origin): audit of two attention nonlinearities on released checkpoints. The gain waterfall attributes 81% to recipe, 4% to scaffold, 15% to the nonlinearity itself
+- [**throughline**](https://github.com/25simsa1/throughline): reads books, articles and papers, surfaces cross-source connections for a chapter thesis, then drafts prose from the ones you keep. Every quote is verified verbatim, anything unverifiable is flagged
+- [**crypto-microstructure**](https://github.com/25simsa1/crypto-microstructure): order book and trade capture from Kraken, Coinbase and Binance, plus an out-of-sample replication check on microstructure effects. A stats-rigor exercise that ends in an honest negative result
+- [**benefit-finder**](https://github.com/25simsa1/benefit-finder): screens a US household for public benefits, assistance programs and tax credits. Static rules engine, nothing stored
 
 ---
 
@@ -42,6 +55,7 @@
 ![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black)
 ![Apache Parquet](https://img.shields.io/badge/Apache_Parquet-50ABF1?style=for-the-badge&logo=apacheparquet&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ---
 
