@@ -2,7 +2,7 @@
 
 - Machine Learning Researcher @ Algoverse, working on learnability probes for LLM training data
 - Linguistics & NLP Research Assistant @ Colby College
-- AI & Operations Automation Intern @ Parsifal Corporation
+- Software Engineer Intern @ Parsifal Corporation
 - Undergrad @ Colby College, class of 2029, double major in Mathematics and Economics, minor in Computer Science
 - Interested in world models, LLM evaluation, applied AI engineering, and finance
 
@@ -10,7 +10,7 @@
 
 - **Learnability probes @ Algoverse**: whether a model's own internals reveal, before any sampling happens, which of its training questions will actually teach it something
 - **Pragmatic competence in LLMs @ Colby**: a controlled evaluation framework that isolates conversational implicature and presupposition from lexical and syntactic surface cues, so real pragmatic inference can be told apart from surface pattern matching. No model tested so far clears the comprehension gate the design requires, which is a result in its own right
-- **AI automation @ Parsifal**: an MCP server that generates validated Power BI projects straight from a SQL database, over a multi-tenant, RLS-secured analytics platform spanning two warehouses
+- **Software engineering @ Parsifal**: an MCP server that generates validated Power BI projects straight from a SQL database, over a multi-tenant, RLS-secured analytics platform spanning two warehouses
 - **Bidirectional predictive coding** for multimodal image-text conversion: framing multimodal learning as constraint satisfaction over shared latent states instead of feedforward mapping ([encoder_encoder_PCN](https://github.com/25simsa1/encoder_encoder_PCN))
 - **A grounded neural computer**: interface routines synthesized by a model once at install time, then executed deterministically against real IMAP/SMTP. Typed effectors, policy-checked updates, immutable audit log ([grounded-nc](https://github.com/25simsa1/grounded-nc))
 
