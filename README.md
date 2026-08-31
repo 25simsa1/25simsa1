@@ -1,30 +1,27 @@
 # Hey! I'm Simon
 
-- Machine Learning Researcher @ Algoverse, working on world models
+- Machine Learning Researcher @ Algoverse, working on learnability probes for LLM training data
 - Linguistics & NLP Research Assistant @ Colby College
 - AI & Operations Automation Intern @ Parsifal Corporation
-- Undergrad @ Colby College, majoring in Mathematics, Economics and Computer Science, class of 2029
+- Undergrad @ Colby College, class of 2029, double major in Mathematics and Economics, minor in Computer Science
 - Interested in world models, LLM evaluation, applied AI engineering, and finance
-
----
 
 ## Currently:
 
-- **World models @ Algoverse**: interpretability of learned world representations and JEPA-style predictive models, aimed at physical and agent-based settings such as autonomous driving
-- **Pragmatic competence in LLMs @ Colby**: a controlled evaluation framework that isolates conversational implicature and presupposition from lexical and syntactic surface cues, so real pragmatic inference can be told apart from surface pattern matching
+- **Learnability probes @ Algoverse**: whether a model's own internals reveal, before any sampling happens, which of its training questions will actually teach it something
+- **Pragmatic competence in LLMs @ Colby**: a controlled evaluation framework that isolates conversational implicature and presupposition from lexical and syntactic surface cues, so real pragmatic inference can be told apart from surface pattern matching. No model tested so far clears the comprehension gate the design requires, which is a result in its own right
 - **AI automation @ Parsifal**: an MCP server that generates validated Power BI projects straight from a SQL database, over a multi-tenant, RLS-secured analytics platform spanning two warehouses
 - **Bidirectional predictive coding** for multimodal image-text conversion: framing multimodal learning as constraint satisfaction over shared latent states instead of feedforward mapping ([encoder_encoder_PCN](https://github.com/25simsa1/encoder_encoder_PCN))
 - **A grounded neural computer**: interface routines synthesized by a model once at install time, then executed deterministically against real IMAP/SMTP. Typed effectors, policy-checked updates, immutable audit log ([grounded-nc](https://github.com/25simsa1/grounded-nc))
 
----
-
 ## Selected Work:
 
-- **beyond_query_linearity** (private repo, available on request): nonlinear attention queries, a companion study to the audit above
+- **Pareto Multi-Attribute Negotiation**: 5th of 125 reviewed submissions at [NANDAHack](https://www.media.mit.edu/posts/mit-media-lab-and-hcltech-host-nandahack-to-advance-agentic-ai-innovation/), the agentic-AI hackathon co-hosted by the MIT Media Lab and HCLTech. Merged upstream into NandaTown ([PR #30](https://github.com/projnanda/nandatown/pull/30)), standalone extraction at [nest-pareto-negotiation](https://github.com/25simsa1/nest-pareto-negotiation)
+- [**1beyond_query_linearity**](https://github.com/25simsa1/1beyond_query_linearity): my fork of the reference implementation for "Beyond Linearity in Attention Projections: The Case for Nonlinear Queries" ([arXiv:2603.13381](https://arxiv.org/abs/2603.13381), to be presented at the ICLR 2026 GRaM workshop). The fork adds a stability and learning-rate audit of the GPT-3 Large comparison
+- [**dependence-is-not-origin**](https://github.com/25simsa1/dependence-is-not-origin): audit of two attention nonlinearities on released checkpoints, with a gain waterfall of 81% training recipe, 4% scaffold, 15% nonlinearity. Dependence is not origin
+- [**colby-major-guide**](https://github.com/25simsa1/colby-major-guide): all 101 Colby programs as one interactive chart, 397 requirement links, shared gateway courses and the exclusion rules that actually bite. Live at [colbymajorguide.com](https://colbymajorguide.com)
 - [**throughline**](https://github.com/25simsa1/throughline): reads books, articles and papers, surfaces cross-source connections for a chapter thesis, then drafts prose from the ones you keep. Every quote is verified verbatim, anything unverifiable is flagged
 - [**benefit-finder**](https://github.com/25simsa1/benefit-finder): screens a US household for public benefits, assistance programs and tax credits. Static rules engine, nothing stored
-
----
 
 ## Tech Stack:
 
@@ -49,14 +46,14 @@
 
 **Tools / Infra**
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Slurm](https://img.shields.io/badge/Slurm-2E5C8A?style=for-the-badge)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black)
 ![Apache Parquet](https://img.shields.io/badge/Apache_Parquet-50ABF1?style=for-the-badge&logo=apacheparquet&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
----
 
 ## GitHub Stats
 
@@ -72,8 +69,6 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=25simsa1&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A371F7&text_color=C9D1D9" alt="Most used languages" height="165" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=25simsa1&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=A371F7&icon_color=A371F7&text_color=C9D1D9" alt="GitHub stats" height="165" />
 </p>
-
----
 
 ## Contact Me
 
