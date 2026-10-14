@@ -1,23 +1,31 @@
 # Hey! I'm Simon
 
+- Efficient Transformer Architectures Researcher @ In Simplicity Technologies
 - Machine Learning Researcher @ Algoverse, working on learnability probes for LLM training data
 - Linguistics & NLP Research Assistant @ Colby College
 - Software Engineer Intern @ Parsifal Corporation
-- Undergrad @ Colby College, class of 2029, double major in Mathematics and Economics, minor in Computer Science
-- Interested in world models, LLM evaluation, applied AI engineering, and finance
+- Data Science Assistant @ Colby's McVey Center for Computational and Data Sciences
+- Undergrad @ Colby College, class of 2029, Mathematics and Economics, minor in Computer Science
+- Interested in post-training, training stability, LLM evaluation, local learning rules, and finance
+
+## Workshop Papers (NeurIPS 2026, accepted):
+
+- **Beyond Query Linearity: The Case for Nonlinear Queries**: co-author (5th of 10). Replaces the attention query projection with a parameter-matched bottleneck MLP. Accepted to the NeurIPS 2026 SLM-Agents workshop
+- **Alignment Without Binding: A Credit-Depth Threshold for Cross-Modal Transfer in Local Learning**: with Anthony Yeh. Accepted to the NeurIPS 2026 DevAI and BabyVLM workshops
 
 ## Currently:
 
+- **Training stability @ In Simplicity**: 757M-parameter GPT-style pretraining runs on H200s comparing linear and nonlinear attention queries. Traced a mid-run divergence in the linear baseline to unbounded attention-logit growth and removed it with a training-only z-loss, verified with matched-seed A/B runs
 - **Learnability probes @ Algoverse**: whether a model's own internals reveal, before any sampling happens, which of its training questions will actually teach it something
 - **Pragmatic competence in LLMs @ Colby**: a controlled evaluation framework that isolates conversational implicature and presupposition from lexical and syntactic surface cues, so real pragmatic inference can be told apart from surface pattern matching. No model tested so far clears the comprehension gate the design requires, which is a result in its own right
+- **Bidirectional predictive coding** for cross-modal generation: scaled from 156M to 7.7B parameters to test whether local learning rules can bind vision and language, with a matched-optimizer backprop comparator that splits the headline gap into recipe, objective structure and reach ([encoder_encoder_PCN](https://github.com/25simsa1/encoder_encoder_PCN))
 - **Software engineering @ Parsifal**: an MCP server that generates validated Power BI projects straight from a SQL database, over a multi-tenant, RLS-secured analytics platform spanning two warehouses
-- **Bidirectional predictive coding** for multimodal image-text conversion: framing multimodal learning as constraint satisfaction over shared latent states instead of feedforward mapping ([encoder_encoder_PCN](https://github.com/25simsa1/encoder_encoder_PCN))
-- **A grounded neural computer**: interface routines synthesized by a model once at install time, then executed deterministically against real IMAP/SMTP. Typed effectors, policy-checked updates, immutable audit log ([grounded-nc](https://github.com/25simsa1/grounded-nc))
+- **HPC support @ McVey**: user guides and office hours for Colby's 716-core, 15-GPU Slurm cluster
 
 ## Selected Work:
 
-- **Pareto Multi-Attribute Negotiation**: 5th of 125 reviewed submissions at [NANDAHack](https://www.media.mit.edu/posts/mit-media-lab-and-hcltech-host-nandahack-to-advance-agentic-ai-innovation/), the agentic-AI hackathon co-hosted by the MIT Media Lab and HCLTech. Merged upstream into NandaTown ([PR #30](https://github.com/projnanda/nandatown/pull/30)), standalone extraction at [nest-pareto-negotiation](https://github.com/25simsa1/nest-pareto-negotiation)
-- [**1beyond_query_linearity**](https://github.com/25simsa1/1beyond_query_linearity): my fork of the reference implementation for "Beyond Linearity in Attention Projections: The Case for Nonlinear Queries" ([arXiv:2603.13381](https://arxiv.org/abs/2603.13381), to be presented at the ICLR 2026 GRaM workshop). The fork adds a stability and learning-rate audit of the GPT-3 Large comparison
+- **Pareto Multi-Attribute Negotiation**: Top 5 (5th of 125+ reviewed submissions) at [NANDAHack](https://www.media.mit.edu/posts/mit-media-lab-and-hcltech-host-nandahack-to-advance-agentic-ai-innovation/), the agentic-AI hackathon co-hosted by the MIT Media Lab and HCLTech. Merged upstream into NandaTown ([PR #30](https://github.com/projnanda/nandatown/pull/30)), standalone extraction at [nest-pareto-negotiation](https://github.com/25simsa1/nest-pareto-negotiation)
+- [**1beyond_query_linearity**](https://github.com/25simsa1/1beyond_query_linearity): my fork of the reference implementation for "Beyond Linearity in Attention Projections: The Case for Nonlinear Queries" ([arXiv:2603.13381](https://arxiv.org/abs/2603.13381), ICLR 2026 GRaM workshop). The fork adds a stability and learning-rate audit of the GPT-3 Large comparison
 - [**dependence-is-not-origin**](https://github.com/25simsa1/dependence-is-not-origin): audit of two attention nonlinearities on released checkpoints, with a gain waterfall of 81% training recipe, 4% scaffold, 15% nonlinearity. Dependence is not origin
 - [**colby-major-guide**](https://github.com/25simsa1/colby-major-guide): all 101 Colby programs as one interactive chart, 397 requirement links, shared gateway courses and the exclusion rules that actually bite. Live at [colbymajorguide.com](https://colbymajorguide.com)
 - [**throughline**](https://github.com/25simsa1/throughline): reads books, articles and papers, surfaces cross-source connections for a chapter thesis, then drafts prose from the ones you keep. Every quote is verified verbatim, anything unverifiable is flagged
