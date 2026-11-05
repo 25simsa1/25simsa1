@@ -3,7 +3,7 @@
 - Efficient Transformer Architectures Researcher @ In Simplicity Technologies
 - Machine Learning Researcher @ Algoverse, working on learnability probes for LLM training data
 - Linguistics & NLP Research Assistant @ Colby College
-- Software Engineer Intern @ Parsifal Corporation
+- Operations Intern @ Parsifal Corporation
 - Data Science Assistant @ Colby's McVey Center for Computational and Data Sciences
 - Undergrad @ Colby College, class of 2029, Mathematics and Economics, minor in Computer Science
 - Interested in post-training, training stability, LLM evaluation, local learning rules, and finance
